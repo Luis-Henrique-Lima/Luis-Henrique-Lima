@@ -1,6 +1,6 @@
 <h1 align="center">Bem vindo ao meu Github.</h1>
 <h3 align="center">Olá me chamo Luis henrique.</h3>
-<img  align="" alt="" width="700" height="300" src="https://comicvine.gamespot.com/a/uploads/original/11111/111118857/4498940-obito%20kamui%20%20(19).gif">
+<img  align="" alt="" width="1000" height="300" src="https://comicvine.gamespot.com/a/uploads/original/11111/111118857/4498940-obito%20kamui%20%20(19).gif">
 
 -  Sou Aprendiz - Assistente de TI.
 
